@@ -6,7 +6,11 @@
 
 The dataset was already clean so there was no need to do anything in the cleaning process.
 
-* Large pizzas were more costly than other pizzas sizes.
+* The month of July generated the highest revenue totaling 8.87% of the total sales  The month of July happens to be the start of summer, hence the reason for the increased orders.
+
+*Classic category drove a total sales of 26.91% as compared to the veggie category which 3% less the Classic.
+
+*Fridays by far is our best day for sales with a total order of 3538 . People are excited about the weekend and would love to hang out with friends.
 
 * The category Classic has the top place in the sales.
 
@@ -17,5 +21,3 @@ The dataset was already clean so there was no need to do anything in the cleanin
 * The most pizza sells on the Friday,Saturday and Thursday.
 
 * The busiest month is July and the slowest time in December month.
-
- * Improve on its pizza flavor and add exotic drinks along side the pizzas.
