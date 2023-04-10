@@ -8,9 +8,9 @@ The dataset was already clean so there was no need to do anything in the cleanin
 
 * The month of July generated the highest revenue totaling 8.87% of the total sales  The month of July happens to be the start of summer, hence the reason for the increased orders.
 
-*Classic category drove a total sales of 26.91% as compared to the veggie category which 3% less the Classic.
+* Classic category drove a total sales of 26.91% as compared to the veggie category which 3% less the Classic.
 
-*Fridays by far is our best day for sales with a total order of 3538 . People are excited about the weekend and would love to hang out with friends.
+* Fridays by far is our best day for sales with a total order of 3538 . People are excited about the weekend and would love to hang out with friends.
 
 * The category Classic has the top place in the sales.
 
