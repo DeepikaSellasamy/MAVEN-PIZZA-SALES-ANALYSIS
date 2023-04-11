@@ -1,6 +1,6 @@
 # MAVEN-PIZZA-SALES-ANALYSIS
 
-#### Toll: POWERBI
+#### Tool: POWERBI
 
 * The data was provided by Maven as a part of the challenge.It was contained in 4 .csv files, named Orders, Order Details, Pizzas, and Pizza type.
 
